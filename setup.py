@@ -7,3 +7,5 @@ setup(name="agentic-trading-system",
        packages=find_packages(),
        install_requires=['lancedb','langchain','langgraph','tavily-python','polygon']
        )
+
+
