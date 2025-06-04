@@ -1,4 +1,4 @@
-# Reusable helper functions (e.g., load data, check configs).import os
+import os
 from dotenv import load_dotenv
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_google_genai import GoogleGenerativeAIEmbeddings

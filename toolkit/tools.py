@@ -6,7 +6,7 @@ from langchain_community.utilities.polygon import PolygonAPIWrapper
 from langchain_community.tools.bing_search import BingSearchResults 
 from data_models.models import RagToolSchema
 from langchain_pinecone import PineconeVectorStore
-from utils.model_loaders import ModelLoader
+from utils.model_loader import ModelLoader
 from utils.config_loader import load_config
 from dotenv import load_dotenv
 from pinecone import Pinecone

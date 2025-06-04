@@ -10,4 +10,7 @@ uvicorn
 langchain-pinecone
 pypdf
 ipykernel
+langchain_groq
+python-dotenv
+docx2txt 
 -e .
