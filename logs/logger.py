@@ -1,3 +1,5 @@
+# Logs everything to a file, essential for debugging + audit
+
 import logging
 import os
 from datetime import datetime

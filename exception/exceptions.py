@@ -1,3 +1,5 @@
+# Custom exception class to give clean, consistent error reporting.
+
 import os
 import sys  # Needed to access exception info like line numbers and filenames
 
