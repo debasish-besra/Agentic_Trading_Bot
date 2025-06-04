@@ -9,6 +9,5 @@ fastapi[all]
 uvicorn
 langchain-pinecone
 pypdf
-lancedb
 ipykernel
 -e .
